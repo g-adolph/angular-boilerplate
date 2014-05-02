@@ -1,0 +1,1001 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strtou",
+				"strtoupper"
+			],
+			[
+				"padding-",
+				"padding-left:   (property)"
+			],
+			[
+				"paddin-r",
+				"padding-right:   (property)"
+			],
+			[
+				"padding",
+				"padding-top:   (property)"
+			],
+			[
+				"cotaca",
+				"cotacaoDia  (variable)"
+			],
+			[
+				"sf_",
+				"sf_guard_user"
+			],
+			[
+				"match",
+				"matchSplit  (variable)"
+			],
+			[
+				"html",
+				"html_entity_decode"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"getPara",
+				"getParameterHolder  (function)"
+			],
+			[
+				"ma",
+				"matchSplit"
+			],
+			[
+				"limi",
+				"limitUsers"
+			],
+			[
+				"t",
+				"thin"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"mat",
+				"matchSplit  (variable)"
+			],
+			[
+				"sf",
+				"sfGuardUser"
+			],
+			[
+				"ti",
+				"timelimit"
+			],
+			[
+				"thea",
+				"theadCount"
+			],
+			[
+				"ca",
+				"categorias_fixas"
+			],
+			[
+				"do",
+				"documento"
+			],
+			[
+				"docu",
+				"documentoAnalise"
+			],
+			[
+				"left",
+				"leftJoin"
+			],
+			[
+				"publi",
+				"_publicado_label"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"la",
+				"labelText  (variable)"
+			],
+			[
+				"has",
+				"hasClass  (function)"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"f",
+				"form  (variable)"
+			],
+			[
+				"pro",
+				"produtoTamanhoOk  (variable)"
+			],
+			[
+				"wor",
+				"words"
+			],
+			[
+				"sfWidgetFormI",
+				"sfWidgetFormInputHidden  (class)"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"all",
+				"allBanks"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"mem",
+				"memory_limit"
+			],
+			[
+				"get",
+				"getObject  (function)"
+			],
+			[
+				"group",
+				"groups_list"
+			],
+			[
+				"va",
+				"values  (variable)"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"re",
+				"return  (variable)"
+			],
+			[
+				"delete",
+				"deleteGroup  (function)"
+			],
+			[
+				"gr",
+				"groupId"
+			],
+			[
+				"in",
+				"invisible"
+			],
+			[
+				"li",
+				"li_group_"
+			],
+			[
+				"url",
+				"urlAction"
+			],
+			[
+				"g",
+				"groupId"
+			],
+			[
+				"gro",
+				"groupId"
+			],
+			[
+				"grou",
+				"groups"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgrou",
+				"background:   (property)"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"de",
+				"deletableGroups  (variable)"
+			],
+			[
+				"cu",
+				"currentCompanies"
+			],
+			[
+				"c",
+				"company  (variable)"
+			],
+			[
+				"border-",
+				"border-bottom:   (property)"
+			],
+			[
+				"d",
+				"divisor"
+			],
+			[
+				"ul",
+				"ulContent"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"acti",
+				"actionTemplate"
+			],
+			[
+				"chec",
+				"checkboxTemplate  (variable)"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"sfG",
+				"sfGuardGroupBanco"
+			],
+			[
+				"dele",
+				"deletableGroups"
+			],
+			[
+				"dete",
+				"deletableGroups"
+			],
+			[
+				"SfGuard",
+				"sfGuardGroupBanco"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"background-i",
+				"background-image:   (property)"
+			],
+			[
+				"status",
+				"statusString  (variable)"
+			],
+			[
+				"curren",
+				"currentProgress"
+			],
+			[
+				"create",
+				"createQuery"
+			],
+			[
+				"set",
+				"setIsActive  (function)"
+			],
+			[
+				"ban",
+				"bankModel  (variable)"
+			],
+			[
+				"view",
+				"viewBuffer  (variable)"
+			],
+			[
+				"cli",
+				"clibanFile"
+			],
+			[
+				"getC",
+				"getClientHeader"
+			],
+			[
+				"validC",
+				"validClient"
+			],
+			[
+				"cliban",
+				"clibanFile"
+			],
+			[
+				"clien",
+				"clienteFile"
+			],
+			[
+				"cl",
+				"cliban"
+			],
+			[
+				"emp",
+				"empresaModelObject  (variable)"
+			],
+			[
+				"atual",
+				"atualizacao  (variable)"
+			],
+			[
+				"ke",
+				"keyBanks  (variable)"
+			],
+			[
+				"bank",
+				"banks"
+			],
+			[
+				"key",
+				"keyBanks  (variable)"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"p",
+				"permissionModel  (variable)"
+			],
+			[
+				"sfGuardG",
+				"sfGuardGroupPermission  (class)"
+			],
+			[
+				"crea",
+				"createQuery"
+			],
+			[
+				"Permission",
+				"Permission"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ba",
+				"bankGroup  (variable)"
+			],
+			[
+				"GroupB",
+				"sfGuardGroupBanco  (class)"
+			],
+			[
+				"processGroup",
+				"processGroupBancos"
+			],
+			[
+				"getVa",
+				"getValuesOfCliban"
+			],
+			[
+				"sf_g",
+				"sf_guard_group"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"sf_guard_",
+				"sf_guard_group"
+			],
+			[
+				"metodo",
+				"Metodologia"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"l",
+				"length  (variable)"
+			],
+			[
+				"where",
+				"whereIn"
+			],
+			[
+				"and",
+				"andWhereIn"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"sele",
+				"selected  (function)"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"coun",
+				"countEsquerda"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"val",
+				"validateFunction"
+			],
+			[
+				"is_",
+				"is_super_admin"
+			],
+			[
+				"a",
+				"analise_banco"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"nb",
+				"nbs-flexisel-ul"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"getD",
+				"getDozeMeses"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"xml",
+				"XML Lint: Show Error List"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"repos",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//kurt/homolog/loja_9080/app/locale/pt_BR/Mage_Captcha.csv",
+		"//kurt/homolog/jgpcredito/apps/frontend/i18n/en/messages.xml",
+		"//kurt/homolog/ask/apps/frontend/i18n/en/messages.xml",
+		"//kurt/homolog/opus_prod/trunk/opus/apps/frontend/i18n/en/messages.xml",
+		"//kurt/homolog/loja_9080/app/code/local/Uecommerce/Mundipagg/controllers/StandardController.php",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic/template/mundipagg/success.phtml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic/template/checkout/success.phtml",
+		"//kurt/homolog/ask/config/doctrine/schema.yml",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_fundosMenu.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/fundosSuccess.php",
+		"//kurt/homolog/ask/apps/frontend/config/settings.yml",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/indexSuccess.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_cota.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_best_cota.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_best.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_ficfim.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_ficfim_cota.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_florestal.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_policard.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_policard2.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_ponte.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_florestal_cota.php",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic/template/onestepcheckout/checkout.phtml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic/template/onestepcheckout/billing_fields.phtml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/template/page/2columns-left.phtml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/template/page/html/footer.phtml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic/template/customer/form/forgotpassword.phtml",
+		"//kurt/homolog/loja_9080/app/locale/pt_BR/Mage_Customer.csv",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/template/page/html/head.phtml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/template/page/html/header.phtml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/page.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/pagecache.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/searchindex.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/local.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/core.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/catalogsearch.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/catalog_msrp.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/catalog.xml",
+		"//kurt/homolog/loja_9080/app/design/frontend/base/classic_home/layout/searchautocomplete.xml",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_policard2_cota.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_policard_cota.php",
+		"//kurt/homolog/ask/apps/frontend/modules/gestao/templates/_ponte_cota.php",
+		"//kurt/homolog/gap/lib/model/FundoConsolidado.php",
+		"//kurt/homolog/gap/apps/frontend/modules/fundo/actions/actions.class.php",
+		"//kurt/homolog/gap/lib/model/Fundo.php",
+		"//kurt/homolog/gap/apps/frontend/modules/fundo/templates/showSuccess.php",
+		"//kurt/homolog/vertra/apps/frontend/templates/layout.php",
+		"//kurt/homolog/gap/lib/model/FundoCotacaoDia.php",
+		"//kurt/homolog/gap/apps/admin/modules/chart/lib/ChartBuilder.class.php",
+		"//kurt/homolog/gap/apps/frontend/modules/cotas/actions/actions.class.php",
+		"//kurt/homolog/gap/apps/frontend/modules/cotas/templates/indexSuccess.php",
+		"//kurt/homolog/gap/lib/model/FundoRentabilidadeMesPeer.php",
+		"//kurt/homolog/jgprecursos/apps/frontend/i18n/en/messages.xml",
+		"//kurt/homolog/vertra/apps/frontend/modules/commom/templates/_bibliotecaLateral.php",
+		"//kurt/homolog/gap/apps/admin/modules/import/actions/actions.class.php",
+		"//kurt/homolog/gap/lib/model/FundoConsolidadoPeer.php",
+		"//kurt/homolog/gap/lib/model/om/BaseFundoConsolidadoPeer.php",
+		"//kurt/homolog/gap/apps/admin/modules/chart/lib/jpgraph_old/src/jpgraph.php",
+		"//kurt/homolog/gap/apps/admin/modules/chart/lib/jpgraph/src/jpgraph.php",
+		"//kurt/homolog/gap/apps/frontend/i18n/en/messages.xml",
+		"//kurt/homolog/gap/lib/model/om/BaseFundoPeer.php",
+		"//kurt/homolog/ask/apps/admin/modules/fundo/config/generator.yml",
+		"//kurt/homolog/ask/apps/admin/modules/fundo/actions/actions.class.php",
+		"/C/xampp/htdocs/gavea/apps/frontend/config/factories.yml",
+		"/C/Users/Filipe/AppData/Local/Temp/Rar$DIa0.828/actions.class.php",
+		"/C/xampp/htdocs/gavea/apps/frontend/modules/contato/actions/actions.class.php",
+		"/C/Users/Filipe/Desktop/bancoModal/html/noticiaList.php",
+		"/C/Users/Filipe/Desktop/bancoModal/en/html/noticiaList.php",
+		"//kurt/homolog/bancoModal/html/noticiaList.php",
+		"//kurt/homolog/bancoModal/html/noticiaFull.php",
+		"//kurt/homolog/bancoModal/en/html/noticiaList.php",
+		"/C/Users/Filipe/AppData/Local/Temp/Rar$DIa0.217/noticiaList.php",
+		"/C/Users/Filipe/Desktop/planner_prod/apps/frontend/config/factories.yml",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/config/settings.yml",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/config/frontendConfiguration.class.php",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/lib/form/EntreContatoForm.class.php",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/lib/form/OuvidoriaForm.class.php",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/config/factories.yml",
+		"//kurt/homolog/planner/apps/frontend/modules/faleConosco/actions/actions.class.php",
+		"//kurt/homolog/planner/apps/frontend/config/factories.yml",
+		"//kurt/homolog/planner/config/ProjectConfiguration.class.php",
+		"/C/Users/Filipe/Desktop/planner_prod/config/ProjectConfiguration.class.php",
+		"/C/Users/Filipe/Desktop/planner_prod/apps/frontend/lib/form/EntreContatoForm.class.php",
+		"/C/Users/Filipe/Desktop/planner_prod/apps/frontend/modules/faleConosco/actions/actions.class.php",
+		"/C/Users/Filipe/Desktop/planner_prod/apps/frontend/lib/form/OuvidoriaForm.class.php",
+		"/C/Users/Filipe/Desktop/planner_prod/apps/frontend/lib/form/SatisfacaoMultiplaForm.class.php",
+		"/C/xampp/htdocs/ventor/apps/frontend/config/factories.yml",
+		"/C/Users/Filipe/AppData/Local/Temp/Rar$DIa0.716/error_log",
+		"//kurt/homolog/planner/apps/frontend/config/routing.yml",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/modules/faleConosco/actions/actions.class.php",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/modules/faleConosco/templates/ouvidoriaSuccess.php",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/modules/faleConosco/templates/indexSuccess.php",
+		"/C/Users/Filipe/Desktop/planner/apps/frontend/config/app.yml",
+		"//kurt/homolog/gavea/apps/frontend/modules/contato/actions/actions.class.php",
+		"//kurt/homolog/gavea/apps/frontend/config/factories.yml",
+		"//kurt/homolog/bancoModal/inc/class.db.php",
+		"//kurt/homolog/bancoModal/inc/header.php",
+		"/C/Users/Filipe/Desktop/bancoModal/en/inc/header_home.php",
+		"/C/Users/Filipe/Desktop/bancoModal/html/index.php",
+		"/C/Users/Filipe/Desktop/bancoModal/admin/noticias.php",
+		"/C/Users/Filipe/Desktop/bancoModal/en/inc/header.php",
+		"/C/Users/Filipe/Desktop/bancoModal/html/noticiaFull.php",
+		"//kurt/homolog/bancoModal/en/html/index.php",
+		"//kurt/homolog/bancoModal/en/inc/class.db.php",
+		"//kurt/homolog/bancoModal/en/inc/header_home.php",
+		"/C/Users/Filipe/AppData/Local/Temp/Rar$DIa0.707/noticiaList.php",
+		"/C/xampp/htdocs/riskbank/apps/admin/modules/sf_guard_user/config/generator.yml",
+		"/C/xampp/htdocs/riskbank/apps/frontend/modules/remember_password/templates/confirmUserSuccess.php",
+		"/C/xampp/htdocs/riskbank/apps/frontend/modules/remember_password/templates/ResetSuccess.php",
+		"/C/xampp/htdocs/riskbank/apps/admin/modules/sf_guard_user/actions/actions.class.php",
+		"//kurt/homolog/bancoModal/admin/noticias.php",
+		"//kurt/homolog/bancoModal/en/html/noticiaFull.php",
+		"//kurt/homolog/bancoModal/en/html/noticias_home.php",
+		"//kurt/homolog/bancoModal/admin/header.php",
+		"/C/xampp/htdocs/bancoModal/admin/noticias.php",
+		"//kurt/homolog/bancoModal/html/noticias_home.php",
+		"//kurt/homolog/bancoModal/html/index.php",
+		"//kurt/homolog/bancoModal/inc/topo.php",
+		"//kurt/homolog/bancoModal/en/inc/topo.php",
+		"/C/xampp/htdocs/bancoModalEn/admin/noticias.php",
+		"/C/xampp/htdocs/riskbank/apps/frontend/templates/internas.php",
+		"/C/xampp/htdocs/riskbank/apps/frontend/modules/main/actions/actions.class.php",
+		"/C/xampp/htdocs/riskbank/apps/frontend/modules/remember_password/actions/actions.class.php",
+		"/C/xampp/htdocs/riskbank/web/css/admin.css",
+		"/C/xampp/htdocs/riskbank/apps/frontend/modules/remember_password/templates/RememberPassSuccess.php",
+		"/C/xampp/htdocs/riskbank/apps/frontend/templates/layout.php",
+		"/C/xampp/htdocs/riskbank/apps/frontend/templates/confirm_remember.php",
+		"/C/xampp/htdocs/riskbank/apps/frontend/modules/main/templates/searchSuccess.php"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"c:\\xampp\\htdocs\\riskbank",
+			"\\\\kurt\\homolog\\riskbank",
+			"\\\\kurt\\homolog\\planner",
+			"C:\\xampp\\htdocs\\riskbank",
+			"",
+			"\\\\kurt\\homolog\\bancoModal",
+			"\\\\kurt\\homolog\\modalAsset",
+			"\\\\kurt\\homolog\\coppe\\incubadora",
+			"\\\\kurt\\homolog\\coppe\\incubadora\\wp-admin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"billing:day",
+			"Field.clear",
+			"Field.clear('billing:email_confirmacao');",
+			"Fundo",
+			"ÁREAS",
+			"recurso",
+			"FUNDO",
+			"amo",
+			"Classificação",
+			"nineteenFour",
+			"SPREADSHEET_EXCEL_READER_UTCOFFSETDAYS1904",
+			"echo",
+			"_39",
+			"_37",
+			"row2",
+			"ultimaData",
+			"loginParam",
+			"param",
+			"login",
+			"`",
+			"noticia",
+			"flg_eng",
+			"split",
+			"Apresentação",
+			"Apresent",
+			"apresentação",
+			"getRows",
+			"getRows()",
+			"Aplicação",
+			"href=\"\"",
+			"<br />Exc.",
+			"Angá",
+			"sfConfig::add(array('google_analytics_id'=>\n            'id'=>'UA-49575125-1'\n        );",
+			"_getQuotes",
+			"SUBSTRING_INDEX(documento,'-',1)",
+			"validateFiles",
+			"getRentabilidadeMes",
+			"formatDate",
+			"getOnepage",
+			"As informa&ccedil;&otilde;es aqui disponibilizadas pos",
+			"style=\"width: 10.4%;\" width=\"10%\"",
+			"class=\"td_padding\" class=\"td_padding\" style=\"width: 10.4%;\" width=\"10%\"",
+			"style=\"width: 10.4%;\" width=\"10%\"",
+			"Plural Capital",
+			"mina",
+			"FBOVESPA ",
+			"mina",
+			"ina",
+			"amina",
+			"BM&FBOVESPA",
+			"índ. BM&FBOVESPA",
+			"Advanced",
+			"Advaaaaaanced",
+			"<td>",
+			"<table",
+			"<table style=\"width: 100%;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\">",
+			"valign=\"top\"",
+			"'",
+			"selo1.jpg",
+			"contratada",
+			"A instituição contrat",
+			"contratada",
+			".setinha",
+			"Plural",
+			"categorias_fixas",
+			"Plural",
+			"Planner",
+			"Multimercado",
+			"Multimercado FIM",
+			" Multimercado FIM",
+			"Planner Cash",
+			"Plural Capital Instituc 15",
+			"Advis Delta FICFI Mult *",
+			"Appia Institucional FI RF",
+			"accordion",
+			"xmlBuscape()",
+			"xmlBuscape",
+			"verificaEstoque",
+			"deleteGroupBancos",
+			"detect_encoding",
+			"menu",
+			"2210-2152",
+			"getValuesOfCliban",
+			"changeEncode",
+			"getValuesOfCliban",
+			"getValuesOfCliente",
+			"changeEncode",
+			"getValuesOfCliban",
+			"getbanks",
+			"banks",
+			"processBanks",
+			"addAllBanks",
+			"processGroupBancos",
+			"print_",
+			"print",
+			"prepareProcess",
+			"cliban",
+			"processGroupBancos",
+			"addAllBanks",
+			"processGroupBancos(",
+			"processGroup(",
+			"console",
+			"clean(",
+			"doBind",
+			"checkTaintedValues",
+			"deleteGroup",
+			"deleteGroup(",
+			"usleep",
+			"getValuesOfCliban",
+			"sleep(",
+			"sleep(1);",
+			"processGroup(",
+			"showDeletableCompanies",
+			"processGroup",
+			"progressBar",
+			"processGroupBancos",
+			"moveProgressBar",
+			"print",
+			"processGroup",
+			"prepareProcess",
+			"processGroupBancos",
+			"addAllBanks",
+			"processGroupBancos",
+			"moveProgressBar",
+			"fclos",
+			"fclose",
+			"prepareProcess",
+			"processGroup"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_40",
+			"_39",
+			"'",
+			" >",
+			"<td class=\"td_padding\"><span class=\"font_span\">Não há</span></td>\n<td class=\"td_padding\"><span class=\"font_span\">Não há</span></td><td class=\"td_padding\"><span class=\"font_span\">Não há</span></td>\n > ",
+			"class=\"td_padding\" style=\"width: 10.4%;\" width=\"10%\"",
+			"''",
+			"2272-9600",
+			"usleep(500000);",
+			"'name'",
+			"<span class=\"font_span\">",
+			"",
+			"<span>",
+			"</span>",
+			"<span>",
+			"<img src=\"../../../images/bt_saiba_mais.jpg\" alt=\"\" width=\"58\" height=\"19\" border=\"0\" />",
+			"class=\"td_padding\"",
+			"",
+			"class=\"td_padding\"",
+			"$",
+			"<p style=\"text-align: right;\" align=\"right\"><a",
+			"<span>",
+			"",
+			"cellspacing=\"0\"",
+			"</p>",
+			"src=\"/images/bt_saiba_mais.jpg\"></a></p>",
+			"class=\"font_span\" style=\"color:white\"",
+			"",
+			"980",
+			"1004",
+			"class=\"font_span\"",
+			"class=\"td_padding\"",
+			"",
+			"background:#146aa8;padding",
+			"background:#ddf0f7;padding",
+			"<a",
+			"",
+			"</a>",
+			"target=\"_blank\">",
+			"/images/bt_saiba_mais.jpg",
+			"",
+			"<span>",
+			"<span",
+			"</span>",
+			"<span>",
+			"",
+			"p",
+			"width=\"980\" ",
+			"style=\"width:980px\"",
+			"",
+			"<img border=\"0\" width=\"58\" height=\"19\" src=\"http://www.planner.com.br/images/bt_saiba_mais.jpg\">",
+			"<p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><a href=\"https://www.btgpactual.com/home/AssetManagement.aspx/FamiliaDeProdutos\" target=\"_blank\"><span style=\"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;text-decoration:none\"><img border=\"0\" width=\"58\" height=\"19\" src=\"http://www.planner.com.br/images/bt_saiba_mais.jpg\"></span></a><span style=\"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"></span></p>",
+			"",
+			"RelatorioBanco",
+			"relatorio_banco",
+			"validate-required",
+			"parceirosList",
+			"",
+			" ",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 375.0,
+	"status_bar_visible": true
+}
